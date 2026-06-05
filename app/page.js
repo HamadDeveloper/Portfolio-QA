@@ -101,7 +101,7 @@ const featuredProjects = [
     appStoreLink: 'https://apps.apple.com/pk/app/cell-it-buy-sell-marketplace/id6502634772',
   },
 ];
- 
+//  hmd koni de
 const moreProjects = [
   {
     title: 'Gamer PC — ERP System',
