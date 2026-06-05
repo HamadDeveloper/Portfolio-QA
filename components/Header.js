@@ -43,7 +43,7 @@ export default function Header() {
   <path d="M4.98 3.5C4.98 4.88 3.86 6 2.48 6S0 4.88 0 3.5 1.12 1 2.48 1s2.5 1.12 2.5 2.5zM0 8h5v16H0V8zm8 0h4.79v2.19h.07c.67-1.27 2.3-2.6 4.74-2.6 5.07 0 6 3.34 6 7.68V24h-5v-7.1c0-1.69-.03-3.87-2.36-3.87-2.37 0-2.73 1.85-2.73 3.75V24H8V8z"/>
 </svg>
           </Link>
-          <Link href="/Hamad-Ur-Rehman-QA-Resume.pdf" download className="hidden items-center gap-2 rounded-full border border-white/10 bg-white/[0.04] px-4 py-2.5 text-sm font-semibold text-white transition hover:border-cyan-200/40 hover:bg-cyan-200/10 md:inline-flex">
+          <Link href="/Hamad-Ur-Rehman-QA-V1.pdf" download className="hidden items-center gap-2 rounded-full border border-white/10 bg-white/[0.04] px-4 py-2.5 text-sm font-semibold text-white transition hover:border-cyan-200/40 hover:bg-cyan-200/10 md:inline-flex">
        
             <Download size={16} /> Resume
           </Link>

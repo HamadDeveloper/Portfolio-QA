@@ -485,7 +485,7 @@ export default function Home() {
               <p className="flex items-center gap-3 text-slate-300"><Mail size={18} className="text-cyan-200" /> rehmanbangash946@gmail.com</p>
               <p className="flex items-center gap-3 text-slate-300"><Phone size={18} className="text-cyan-200" /> +92 331 8419013</p>
               <p className="flex items-center gap-3 text-slate-300"><MapPin size={18} className="text-cyan-200" /> Islamabad, Pakistan</p>
-              <a href="/Hamad-Ur-Rehman-QA-Resume.pdf" download className="btn-primary mt-5 w-full justify-center">
+              <a href="/Hamad-Ur-Rehman-QA-V1.pdf" download className="btn-primary mt-5 w-full justify-center">
                 Download Resume <Download size={17} />
               </a>
             </Card>
